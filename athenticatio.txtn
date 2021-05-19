@@ -1,0 +1,3 @@
+def authenticate(username,password):
+	authenticate the user with usrname and password
+	return user
